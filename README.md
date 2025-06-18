@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @dev-blackadder
-- 👀 I’m interested in | scripting & automation
-- 🌱 I’m currently learning | Python/Java
-- 📫 How to reach me | dev@blackadder.me
+
